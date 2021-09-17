@@ -37,7 +37,7 @@
           <h2 class="contact-title">Contact Us</h2>
           <p>Jika ada masalah Hubungi saya:
              <br>raviansyah 
-             <br> Nome hp: 0895396629202</p>
+             <br> Nome hp: 0895396629202
              <br> instagram: @raviansyahyp
           <form action="#" method="post" class="tm-contact-form">
               <div class="col-lg-5 col-md-5 contact-form-left">
