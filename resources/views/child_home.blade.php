@@ -5,7 +5,7 @@
 @section('header')
 <div class="templatemo-header">
             <img class="templatemo-header-img" src="{{ asset('motor/img/header.png') }}" alt="Header">
-            <h1 class="templatemo-site-name">Motor</h1>
+            <h1 class="templatemo-site-name">Mobil</h1>
             <div class="mobile-menu-icon">
             <i class="fa fa-bars"></i>
             </div>
